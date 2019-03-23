@@ -6,11 +6,13 @@ services:
     
     hostname: xampp-buzza
     container_name: xampp-buzza
+    
     ports:
       - 8080:80
       - 33306:3306
       - 443:443
       - 2222:22
+      
     volumes:
       - /Users/eniomarcelobuzaneli/Documents/Docker/xamppphp5/www:/opt/lampp/htdocs
       - /Users/eniomarcelobuzaneli/Documents/Docker/xamppphp5/php/php.ini:/opt/lampp/etc/php.ini
