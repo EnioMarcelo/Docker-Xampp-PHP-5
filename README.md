@@ -1,4 +1,4 @@
-Docker Machine - Xampp - MariaDB - PHP 5
+Docker Machine - Xampp - MariaDB 10.1.13 - PHP 5.6.21
 
 MariaDB/phpmyadmin - User: root - Password: 102030
 
