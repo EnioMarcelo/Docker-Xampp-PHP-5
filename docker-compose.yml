@@ -2,7 +2,7 @@ version: '2'
 
 services:
   web:
-    image: tomsik68/xampp
+    image: ebuzaneli/xampp_mysql_php5
     
     hostname: xampp-buzza
     container_name: xampp-buzza
